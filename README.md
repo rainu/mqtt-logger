@@ -36,5 +36,5 @@ or
 |--broker|MQTT_BROKER_ADDRESS|  |The mqtt broker address.|
 |--user|MQTT_USERNAME|  |The mqtt username.|
 |--password|MQTT_PASSWORD|  |The mqtt password.|
-|--timeout|MQTT_TIMEOUT|  |The timeout for the mqtt connection.|
+|--timeout|MQTT_TIMEOUT| 1m |The timeout for the mqtt connection.|
 |--ca-cert|MQTT_CA_CERT|  |The path of the CA-Cert file for secure mqtt connection.|
